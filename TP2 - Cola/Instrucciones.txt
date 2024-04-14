@@ -1,0 +1,18 @@
+Bienvenido al programa de Pila desarrollado en Lenguaje C. Siga los siguientes pasos para poder compilar y usar el programa sin problemas.
+
+Importante: Cuando tuve que desarrollar este programa, lo cree a través de VSCode en Windows, aunque tambien funciona perfecto en Code::Blocks (Windows). Para compilarlo y usarlo en VSCode deberian tener instalado el mismo, junto con las extensiones que enumero a continuacion:
+
+1) C/C++ de Microsoft
+2) C/C++ Extension Pack de Microsoft
+3) C/C++ Themes de Microsoft (Opcional)
+4) C/C++ Compile Run de danielpinto.space
+
+Ahora si, procedemos con los pasos:
+
+1) Abrir el archivo Pila.c (que contiene el programa main) y a su vez el archivo headerPila.h (que contiene las funciones) en dos pestañas en simultaneo desde Visual Studio Code. 
+
+2) Una vez tenemos ambos abiertos, deberiamos tener las extensiones que enuncie previamente instaladas en nuestro VSCode. De ser asi, le damos al boton de Run del mismo programa de VSCode, el mismo se encuentra en la esquina superior derecha del programa (corremos desde VSCode, sin necesidad de consola)
+
+3) Deberia abrirse una terminal que presenta el programa y ofrece varias opciones. El usuario debe ingresar en mayuscula el caracter indicado para realizar distintas modificaciones a la pila. Insertar I para agregar un nodo con un valor tipo int; Ingresar E si deseamos eliminar el ultimo nodo ingresado a la Pila; ingresar L si queremos leer el estado de la lista actual. No es para nada complicado. 
+
+4) Espero que se entienda y que lo disfrutes!
